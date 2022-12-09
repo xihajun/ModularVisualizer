@@ -43,24 +43,8 @@
 
 ## Getting Started
 
-### Prerequisites
-- **Windows 10** or above
-> For older systems, **Powershell v5.1 or newer** is required. Upgrade powershell **[here](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2#upgrading-existing-windows-powershell)**!
+let me test
 
-### Installation 
-Run the following command in Powershell to download the latest version of JaxCore.
-
-(To launch Powershell as an Admin: `Win + R` -> `powershell` -> Press `CTRL + SHIFT + ENTER` on your keyboard. Powershell can also be launched via Windows Search.)
-
-```
-iwr -useb "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstaller.ps1" | iex
-```
-
-> Alternatively you can download it from the [website](https://jax-core.github.io/)
-
-After you've proceeded through the welcome screen, select `ModularVisualizer` (might have to scroll down) and click `Install`. It will appear in the library page after that.
-<br />
-<br />
 <!-- END GetStarted.mustache -->
 <!-- START Setup.mustache -->
 
